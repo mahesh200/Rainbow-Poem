@@ -1,2 +1,3 @@
 This is a weather information from unicorn
 20c in Banglore now
+The master also adding weather info
